@@ -1,0 +1,32 @@
+.square { 
+display: inline-block; }
+.square:nth-child(odd) {
+    background: #FF0000;
+}
+
+.square:nth-child(even) {
+    background: #0040FF;
+}
+
+.square { margin: 10px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+.square { width: 100px; height: 100px; }
+

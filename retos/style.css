@@ -1,0 +1,56 @@
+html {
+	font-size: 16px;
+	height: 100%;
+
+}
+
+body {
+  background: url(http://blog.hdwallsource.com/wp-content/uploads/2016/01/wallpapers-hd-8007-8338-hd-wallpapers.jpg);
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font: 65.5% Helvetica, Tahoma, Arial, Sans-serif;
+  height: 100%;
+
+}
+
+body .container{
+	max-width: 1024px;
+	width: 100%;
+
+}
+.nav-bar{
+	margin-bottom: 120px; 
+}
+
+.nav-bar h1{
+	font-size: 2.5em;
+	color: #FFF;
+	background-color: black;
+	display: inline-block;
+	border: 4px
+	border color white;
+	border-style: solid;
+	padding: 5px;
+
+}
+
+section{
+	display:inline-block;
+	width: 100%;
+	vertical-align: top;
+}
+
+form{
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+	color:#FF8000;
+	font-weight: bold;
+}
+
+form p{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #FF0040
+}

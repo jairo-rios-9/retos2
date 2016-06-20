@@ -1,0 +1,13 @@
+table, tr, td {
+	border: #E6E6E6 1px solid;
+	width: 180px;
+	height: 200px;
+	border-image-width: 70px
+
+}
+table, tr, td { font: 1.6% Helvetica, 16px;
+	 color: #0040FF;
+	 font-color: #ddd;
+	 margin: 2cm 4cm 3cm 4cm;
+	padding: (5cm,5cm)	 
+}
